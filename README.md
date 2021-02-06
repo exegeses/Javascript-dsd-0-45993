@@ -7,4 +7,9 @@
 >Código 45993 |  
 >sensei: Marcos Pinardi |  
 
+  1. Definición
+  2. ¿Qué puede hacer javascript?
+  3. Requisitos de software
+  4. Ejecutar Javascript   
+
 
