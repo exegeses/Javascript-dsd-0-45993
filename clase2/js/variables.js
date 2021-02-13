@@ -3,4 +3,4 @@
     var nombre = prompt('ingrese su nombre')
 
     //imprimimos el dato
-    document.write(nombre)
+    document.write('Bienvenido ' + nombre)
