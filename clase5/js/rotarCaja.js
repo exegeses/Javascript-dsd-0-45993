@@ -20,7 +20,8 @@
         var b = Math.random() * 255 //entre 0 y 1->255
 
         caja.style.transform = 'rotate('+grados+'deg)';
-        //caja.style.backgroundColor = 'rgb('+r+', '+g+', '+b+')'
+        caja.style.backgroundColor = 'rgb('+r+', '+g+', '+b+')'
+
     }
 // invocamos la función
     rotar();
